@@ -2,7 +2,7 @@
 
 # Hi, I'm Surendranath Duvvuru 👋
 
-### AI/ML Engineer | Generative AI & LLM Research | Aspiring AI Architect
+### AI/ ML Engineer | Generative AI & LLM Research | Aspiring AI Architect
 
 Building practical AI solutions by combining machine learning, deep learning, LLM-based reasoning, and a strong engineering mindset.
 
@@ -17,8 +17,8 @@ Building practical AI solutions by combining machine learning, deep learning, LL
 
 ## 👨‍💻 About Me
 
-- 🎓 Recently completed a **Master's in Artificial Intelligence and Machine Learning**.
-- 🤖 Bringing **2+ years of machine learning engineering experience** alongside **14+ years in software testing and performance engineering**.
+- 🎓 **Master of Science in Artificial Intelligence and Machine Learning**.
+- 🤖 I bring **2+ years of machine learning engineering experience** alongside **14+ years in software testing and performance engineering**.
 - 🧠 Interested in **Generative AI, Large Language Models (LLMs), AI agents, tool-augmented reasoning, and production-ready ML systems**.
 - 🔬 Academic research focus: **improving tool-use efficiency in LLM-based AI agents**, including Chain-of-Abstraction reasoning.
 - 🏗️ Working toward designing reliable, scalable AI systems—with an emphasis on evaluation, performance, maintainability, and responsible deployment.
